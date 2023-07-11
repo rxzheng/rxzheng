@@ -1,0 +1,2 @@
+- i use arch dwm btw
+- colemak
