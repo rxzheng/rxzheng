@@ -3,7 +3,7 @@
 Visit philosocratic.com
 youtube.com/@Philosocratic
 
-[Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxzheng&show_icons=true&theme=tokyonight)
+![rxzheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=rxzheng&show_icons=true&theme=tokyonight)
 
 
 arch dwm
