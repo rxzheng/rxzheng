@@ -16,7 +16,6 @@ youtube.com/@Philosocratic
 - colemakvim: a tutorial to have colemak vim bindings without plugins
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rxzheng/langs)](https://githubtrends.io)
 
 arch dwm
 colemak
