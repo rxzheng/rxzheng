@@ -5,6 +5,8 @@ youtube.com/@Philosocratic
 **Projects:**
 - philosocratic: a website to compete with your friends on an educational philosophical website
 
+- heLM: a website that introduces the heLM project
+
 - turtlepyrecreate: an image recreation tool with Python turtle
 
 - homebrewinstall: a script to install homebrew with sudo privileges
