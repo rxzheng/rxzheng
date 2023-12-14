@@ -21,5 +21,4 @@ youtube.com/@Philosocratic
 
 
 
-arch dwm
-colemak
+arch dwm colemak btw
