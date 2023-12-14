@@ -8,6 +8,8 @@ youtube.com/@Philosocratic
 - heLM: a website that introduces the heLM project
 
 - turtlepyrecreate: an image recreation tool with Python turtle
+  
+- macstdc++.h: a script to get #include <bits/stdc++.h> to work on macOS
 
 - homebrewinstall: a script to install homebrew with sudo privileges
 
