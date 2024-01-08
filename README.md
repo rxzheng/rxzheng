@@ -19,6 +19,8 @@ youtube.com/@Philosocratic
 
 - colemakvim: a tutorial to have colemak vim bindings without plugins
 
-
+**Contact Me**
+- On IRC: nick: yuljg, freenode + libera (I use IRSSI)
+- On Signal
 
 arch dwm colemak btw
