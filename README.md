@@ -5,7 +5,7 @@ youtube.com/@Philosocratic
 **Projects:**
 - philosocratic: a website to compete with your friends on an educational philosophical website (v2 revamp in progress)
 
-- heLM: a website that introduces the heLM project
+- heLM: a website that introduces the heLM project (under progress)
 
 - turtlepyrecreate: an image recreation tool with Python turtle
   
