@@ -15,7 +15,7 @@ youtube.com/@Philosocratic
 
 - monkeytypeword: CSS to disguise monkeytype as Microsoft Word
 
-- pkgexpand: a script to expand pkg files with sudo privileges
+- pkgexpand: a script to expand pkg files without sudo privileges
 
 - colemakvim: a tutorial to have colemak vim bindings without plugins
 
