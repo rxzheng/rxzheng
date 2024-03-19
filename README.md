@@ -3,6 +3,8 @@ Philosocratic.com
 youtube.com/@Philosocratic
 
 **Projects:**
+- blackfox: a minimalistic website for pomodoro, todo and habit tracking
+
 - philosocratic: a website to compete with your friends on an educational philosophical website (v2 revamp in progress)
 
 - heLM: a website that introduces the heLM project (under progress)
