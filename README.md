@@ -1,7 +1,3 @@
-Philosocratic.com
-
-youtube.com/@Philosocratic
-
 **Projects:**
 - blackfox: a minimalistic website for pomodoro, todo and habit tracking
 
