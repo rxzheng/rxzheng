@@ -18,7 +18,8 @@
 - colemakvim: a tutorial to have colemak vim bindings without plugins
 
 **Contact Me**
-- On IRC: nick: yuljg, freenode + libera (I use IRSSI)
+- On IRC: nick: yuljg, freenode + libera
 - On Signal
+- Email
 
-arch dwm colemak btw
+gentoo dwm colemak btw
