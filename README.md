@@ -9,6 +9,8 @@
   
 - macstdc++.h: a script to get #include <bits/stdc++.h> to work on macOS
 
+- google-drive-downloader: a script that allows you to bypass download protected documents
+
 - homebrewinstall: a script to install homebrew with sudo privileges
 
 - monkeytypeword: CSS to disguise monkeytype as Microsoft Word
@@ -18,8 +20,4 @@
 - colemakvim: a tutorial to have colemak vim bindings without plugins
 
 **Contact Me**
-- On IRC: nick: yuljg, freenode + libera
-- On Signal
-- Email
-
-gentoo dwm colemak btw
+- ienh@proton.me
